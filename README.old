@@ -1,0 +1,3 @@
+# testDuplicate
+run yarn test and the source map will show in your browser
+The source map show a duplication of a lodash libary
